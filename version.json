@@ -1,12 +1,10 @@
 {
     "include": [
-      "eAPP610_TD V100R006C00",
-      "eUDC660_TD V100R006C00",
-      "eMRS620_TD V100R006C00",
-      "eSSC690_TD V100R006C00"
+      "VERSION-A",
+      "VERSION-B"
     ],
 
     "exclude": [],
 	
-    "single": "eSSC690_TD V100R006C00"
+    "single": "VERSION-A"
 }
