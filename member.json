@@ -1,24 +1,9 @@
 {
   "ISP_OAM": {
-    "tanxiujie WX44635": "谭秀杰",
     "libin WX382598": "李斌"
-  },
-
-  "ISP_FWK": {
-    "gongshusheng WX564512": "龚书生",
-    "xuwenjun WX471762": "许文君"
   },
 
   "ISP_WEB": {
     "lvhe WX575907": "吕贺"
-  },
-  
-  "ISP_SE": {
-	"lixiaochun WX618543": "李晓春"
-  },
-  
-  "ISP_DOC": {
-	"guwei WX51256": "顾炜",
-	"yantianqi WX489584": "严天琪"
   }
 }
