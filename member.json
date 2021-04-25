@@ -1,35 +1,24 @@
 {
   "ISP_OAM": {
-	"zhangwenxiang WX10440": "张文祥",
     "tanxiujie WX44635": "谭秀杰",
-	"liuyong WX10716": "刘勇",
-    "yangchengyuan WX569521": "杨程远",
     "libin WX382598": "李斌"
   },
 
   "ISP_FWK": {
-    "shengaijun WX190398": "盛爱军",
     "gongshusheng WX564512": "龚书生",
-    "tangdajun WX10512": "唐大军",
-    "xuwenjun WX471762": "许文君",
-	"longwenxiang WX468429": "龙文祥",
-	"luxinyan WX222252": "陆鑫炎"
+    "xuwenjun WX471762": "许文君"
   },
 
   "ISP_WEB": {
-    "lvhe WX575907": "吕贺",
-    "yaohongwei WX636806": "尧红伟"
+    "lvhe WX575907": "吕贺"
   },
   
   "ISP_SE": {
-	"jinhong WX10690": "金红",
 	"lixiaochun WX618543": "李晓春"
   },
   
   "ISP_DOC": {
 	"guwei WX51256": "顾炜",
-	"zhaodanni WX863904": "赵丹妮",
-	"yantianqi WX489584": "严天琪",
-	"zhouhaoyu WX791591": "周浩宇"
+	"yantianqi WX489584": "严天琪"
   }
 }
